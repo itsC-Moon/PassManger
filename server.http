@@ -1,0 +1,9 @@
+POST  http://localhost:8080/api/update
+Content-Type: application/json
+Accept: application/json
+
+{
+	"id" : 10,
+	"name":"Netflix1"
+
+}

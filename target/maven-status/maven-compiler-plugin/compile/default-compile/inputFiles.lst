@@ -1,0 +1,12 @@
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/model/Password.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/service/PasswordService.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/config/PasswordRowMapper.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/HichamApplication.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/database/PasswordRepository.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/controller/PasswordController.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/model/User.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/model/Tag.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/config/DataBaseConfig.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/model/ErrorJson.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/service/impl/PasswordServiceimpl.java
+/home/hicham/Desktop/Java/PassManger/src/main/java/com/PasswordManger/hicham/database/impl/Repositoryimpl.java
